@@ -2,11 +2,11 @@ const settings = {
   packname: 'Knight',
   author: 'Bot',
   botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '917023951514', //Your number
+  botOwner: 'wckyy', // Your name
+  ownerNumber: '263714500434', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
-  description: "This is a bot for managing group commands and automating tasks.",
+  description: "Lyric Vibes ☆ Music",
   version: "1.0.0",
 };
 
